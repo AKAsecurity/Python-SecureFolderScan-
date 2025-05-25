@@ -1,0 +1,2 @@
+# Python-SecureFolderScan-
+フォルダー内の潜在的に危険なPythonコードを自動検出するツールです
